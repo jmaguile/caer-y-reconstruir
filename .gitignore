@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.env.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local data / indexes
+rag_index/
+rag_corpus/
+
+# macOS
+.DS_Store

@@ -1,0 +1,251 @@
+{
+  "_note": "Curated energy/climate/macro events 2020-2025 for historical-echo matching against Polymarket odds. Each event is high-signal (publicly verifiable, price-moving) and dated to the day. Tags help disambiguate when multiple events cluster.",
+  "events": [
+    {
+      "date": "2020-04-20",
+      "headline": "WTI front-month futures crash below zero for the first time in history",
+      "context": "Storage at Cushing filled to capacity during COVID demand collapse; May contract settled at -$37.63.",
+      "tags": ["oil", "wti", "crash", "covid"]
+    },
+    {
+      "date": "2020-04-12",
+      "headline": "OPEC+ agrees record 9.7 million bpd production cut",
+      "context": "Largest coordinated supply cut in history, ending the Saudi-Russia price war and stabilizing crude through 2020.",
+      "tags": ["opec", "oil", "saudi", "russia"]
+    },
+    {
+      "date": "2020-12-01",
+      "headline": "AMLO's MORENA party consolidates control of Mexico's energy regulator CRE",
+      "context": "Slowdown of private renewable permits accelerates; CFE state utility prioritized over IPP solar/wind.",
+      "tags": ["mexico", "amlo", "cfe", "renewable", "cre"]
+    },
+    {
+      "date": "2021-02-15",
+      "headline": "Texas grid failure during Winter Storm Uri cuts Mexico gas supply",
+      "context": "Mexico lost ~5 GW of generation as US export terminals froze; AMLO cited as justification for fossil self-sufficiency.",
+      "tags": ["mexico", "gas", "grid", "amlo"]
+    },
+    {
+      "date": "2021-08-09",
+      "headline": "IPCC AR6 Working Group I Summary for Policymakers released",
+      "context": "Declared human-induced warming 'unequivocal' and 1.5C breach likely by early 2030s; framed COP26 stakes.",
+      "tags": ["ipcc", "climate", "policy"]
+    },
+    {
+      "date": "2021-11-13",
+      "headline": "COP26 Glasgow Pact agreed: 'phase down' of unabated coal",
+      "context": "India and China watered down 'phase out' to 'phase down' in the final minutes; methane pledge launched separately.",
+      "tags": ["cop", "climate", "coal", "methane"]
+    },
+    {
+      "date": "2022-02-24",
+      "headline": "Russia invades Ukraine; Brent crude spikes above $100",
+      "context": "Triggered the largest European energy crisis since 1973; LNG redirected from Asia to Europe at record premiums.",
+      "tags": ["oil", "russia", "ukraine", "gas", "lng"]
+    },
+    {
+      "date": "2022-03-08",
+      "headline": "Biden bans US imports of Russian oil, gas, and coal",
+      "context": "Pushed WTI to $123 intraday peak; refiners scrambled for Canadian and Latin American heavy crude substitutes.",
+      "tags": ["oil", "russia", "biden", "sanctions"]
+    },
+    {
+      "date": "2022-06-03",
+      "headline": "EU agrees sixth sanctions package, partial Russian oil embargo",
+      "context": "Seaborne crude ban by end-2022; Hungary carve-out for pipeline supply; tightened Atlantic basin balances.",
+      "tags": ["oil", "russia", "eu", "sanctions"]
+    },
+    {
+      "date": "2022-07-01",
+      "headline": "Mexico inaugurates Dos Bocas (Olmeca) refinery — Pemex flagship",
+      "context": "AMLO's signature energy project, 340k bpd nameplate; persistent delays through 2024 mean ramp far below promised throughput.",
+      "tags": ["mexico", "pemex", "amlo", "refinery"]
+    },
+    {
+      "date": "2022-08-16",
+      "headline": "US Inflation Reduction Act (IRA) signed into law",
+      "context": "$369B for clean energy via tax credits; reshapes solar/storage/hydrogen capex globally and pressures Mexican nearshoring.",
+      "tags": ["ira", "us", "renewable", "policy"]
+    },
+    {
+      "date": "2022-10-05",
+      "headline": "OPEC+ announces 2 million bpd headline production cut",
+      "context": "Drew sharp White House rebuke ahead of US midterms; effective real cut closer to 1mbd due to existing under-quota members.",
+      "tags": ["opec", "oil", "cut"]
+    },
+    {
+      "date": "2022-11-06",
+      "headline": "COP27 opens in Sharm el-Sheikh, Egypt",
+      "context": "Loss-and-damage fund agreed for the first time; no new commitments on fossil phase-down.",
+      "tags": ["cop", "climate", "loss-and-damage"]
+    },
+    {
+      "date": "2022-12-05",
+      "headline": "G7 price cap of $60/bbl on Russian seaborne crude takes effect",
+      "context": "Forced re-flagging and shadow-fleet expansion; Urals discount to Brent widened to $30+ for months.",
+      "tags": ["oil", "russia", "g7", "sanctions"]
+    },
+    {
+      "date": "2023-03-20",
+      "headline": "IPCC AR6 Synthesis Report SPM released",
+      "context": "Final consolidated IPCC product before AR7; emphasized 'climate-resilient development' and near-term mitigation gap.",
+      "tags": ["ipcc", "climate", "policy"]
+    },
+    {
+      "date": "2023-04-02",
+      "headline": "OPEC+ announces surprise voluntary 1.16 million bpd cut",
+      "context": "Eight members including Saudi Arabia cut outside the formal quota framework; Brent jumped $5+ on the open.",
+      "tags": ["opec", "oil", "saudi", "cut"]
+    },
+    {
+      "date": "2023-06-04",
+      "headline": "Saudi Arabia announces additional unilateral 1 million bpd cut",
+      "context": "Effective July 2023, repeatedly extended through 2024; Saudi production fell to ~9 mbd, lowest in years.",
+      "tags": ["opec", "oil", "saudi", "cut"]
+    },
+    {
+      "date": "2023-10-07",
+      "headline": "Hamas attacks Israel; Middle East risk premium returns to oil",
+      "context": "Brent gapped from $84 to $89; markets priced in regional escalation risk to Strait of Hormuz and Red Sea shipping.",
+      "tags": ["oil", "israel", "geopolitical"]
+    },
+    {
+      "date": "2023-11-30",
+      "headline": "COP28 opens in Dubai under UAE presidency",
+      "context": "Petrostate-hosted; controversy over fossil-industry attendees; pivotal final-text battle on phase-out language.",
+      "tags": ["cop", "climate", "uae", "fossil"]
+    },
+    {
+      "date": "2023-12-13",
+      "headline": "COP28 final text calls for 'transitioning away from fossil fuels'",
+      "context": "First-ever fossil-fuel reference in a COP outcome; OPEC pushback failed but 'phase out' was avoided.",
+      "tags": ["cop", "climate", "fossil", "transition"]
+    },
+    {
+      "date": "2024-02-04",
+      "headline": "AMLO submits constitutional reform package, including energy sovereignty articles",
+      "context": "Codifies CFE's preferential dispatch and Pemex's monopoly framing; lays groundwork for Sheinbaum's policy continuity.",
+      "tags": ["mexico", "amlo", "cfe", "pemex", "reform"]
+    },
+    {
+      "date": "2024-06-02",
+      "headline": "Claudia Sheinbaum wins Mexico presidential election by record margin",
+      "context": "MORENA also secures supermajority in lower house; peso fell 4% next session on judicial-reform concerns.",
+      "tags": ["mexico", "sheinbaum", "election", "peso"]
+    },
+    {
+      "date": "2024-06-02",
+      "headline": "OPEC+ extends voluntary cuts through Q3 2024 with phased Q4 unwind",
+      "context": "Market disappointed by signaled supply return; Brent fell 5% the next two sessions before stabilizing.",
+      "tags": ["opec", "oil", "cut"]
+    },
+    {
+      "date": "2024-09-11",
+      "headline": "Mexico Senate passes judicial reform allowing popular election of judges",
+      "context": "Peso weakened to 19.8/USD; international investors flagged rule-of-law risk for energy contract enforcement.",
+      "tags": ["mexico", "peso", "sheinbaum", "judicial"]
+    },
+    {
+      "date": "2024-10-01",
+      "headline": "Sheinbaum inaugurated as Mexico's first female president",
+      "context": "Cabinet signaled continuity on energy: state-led, fossil-anchored, with rhetorical (not capex) commitments to renewables.",
+      "tags": ["mexico", "sheinbaum", "inauguration"]
+    },
+    {
+      "date": "2024-11-05",
+      "headline": "Donald Trump wins US presidential election",
+      "context": "Peso fell to 20.7/USD overnight; renewable sector equities sold off on expected IRA rollback risk.",
+      "tags": ["us", "trump", "election", "peso", "ira"]
+    },
+    {
+      "date": "2024-11-11",
+      "headline": "COP29 opens in Baku, Azerbaijan",
+      "context": "'Finance COP' focused on $1T+ annual climate finance target for developing countries; Trump win overshadowed talks.",
+      "tags": ["cop", "climate", "finance", "azerbaijan"]
+    },
+    {
+      "date": "2024-11-24",
+      "headline": "COP29 closes with $300B/yr climate finance pledge by 2035",
+      "context": "Developing countries blasted figure as inadequate; LMDCs walked out briefly during plenary.",
+      "tags": ["cop", "climate", "finance"]
+    },
+    {
+      "date": "2024-11-25",
+      "headline": "Trump announces 25% tariff threat on Mexico and Canada day-one",
+      "context": "Peso fell to 20.6/USD on the post; manufacturers paused nearshoring announcements pending detail.",
+      "tags": ["mexico", "us", "trump", "tariff", "peso"]
+    },
+    {
+      "date": "2025-01-20",
+      "headline": "Trump inaugurated; signs executive orders withdrawing from Paris Agreement and 'unleashing' US energy",
+      "context": "Halts new offshore wind leases, accelerates LNG export approvals, rescinds EV mandate; renewable equities fell 6-12%.",
+      "tags": ["us", "trump", "paris", "renewable", "lng"]
+    },
+    {
+      "date": "2025-02-01",
+      "headline": "Trump signs orders imposing 25% tariff on Mexico and Canada, 10% on China",
+      "context": "Peso fell to 21.3/USD; Sheinbaum announced retaliatory measures before a 30-day pause was negotiated 2 days later.",
+      "tags": ["mexico", "us", "trump", "tariff", "peso"]
+    },
+    {
+      "date": "2025-03-04",
+      "headline": "Trump tariffs on Mexico and Canada take effect after pause expires",
+      "context": "Peso opened at 20.9/USD weaker; auto sector and Mexico-based EV suppliers most exposed; OPEC+ separately confirmed April supply unwind.",
+      "tags": ["mexico", "us", "trump", "tariff", "peso"]
+    },
+    {
+      "date": "2025-04-03",
+      "headline": "OPEC+ announces surprise April production hike of 411k bpd",
+      "context": "Triple the planned monthly unwind; Brent crashed $7 on the announcement to ~$70 intraday, lowest since 2021.",
+      "tags": ["opec", "oil", "hike", "saudi"]
+    },
+    {
+      "date": "2025-04-09",
+      "headline": "Brent below $60 intraday on combined Trump tariff escalation + OPEC+ supply",
+      "context": "Demand-destruction fears from global tariff regime collide with OPEC+ supply return; deepest single-week crude decline since 2020.",
+      "tags": ["oil", "tariff", "opec", "crash"]
+    },
+    {
+      "date": "2025-05-12",
+      "headline": "US-China announce 90-day tariff truce in Geneva",
+      "context": "Equities rallied globally; oil rebounded to $66; peso strengthened to 19.4/USD on risk-on.",
+      "tags": ["us", "china", "tariff", "trade"]
+    },
+    {
+      "date": "2025-06-22",
+      "headline": "US strikes on Iranian nuclear sites; oil spikes on Hormuz closure threat",
+      "context": "Brent gapped above $80 intraday before Iran's measured retaliation calmed markets within 48 hours.",
+      "tags": ["oil", "iran", "us", "geopolitical"]
+    },
+    {
+      "date": "2025-09-07",
+      "headline": "OPEC+ accelerates supply unwind, full restoration of voluntary cuts by year-end",
+      "context": "Saudi-led pivot from defending price to defending share; Brent settled at $66 with bearish forward curve.",
+      "tags": ["opec", "oil", "saudi", "hike"]
+    },
+    {
+      "date": "2025-10-22",
+      "headline": "US Treasury sanctions Rosneft and Lukoil, expanding Russia oil pressure",
+      "context": "Brent jumped $3 to $66 before fading; secondary-sanction risk on India and China refiners flagged but unenforced.",
+      "tags": ["oil", "russia", "us", "sanctions"]
+    },
+    {
+      "date": "2025-11-10",
+      "headline": "COP30 opens in Belém, Brazil",
+      "context": "First COP in the Amazon; Lula framed forest finance and Global South just-transition as central; US absent in delegation form.",
+      "tags": ["cop", "climate", "brazil", "lula"]
+    },
+    {
+      "date": "2026-02-18",
+      "headline": "Mexico approves Plan Sonora 2.0 expansion with mixed-finance solar projects",
+      "context": "Sheinbaum administration signaled willingness to involve private capital in solar after years of CFE-only framing.",
+      "tags": ["mexico", "sheinbaum", "solar", "renewable", "sonora"]
+    },
+    {
+      "date": "2026-04-08",
+      "headline": "Pemex receives third sovereign capital injection in 18 months",
+      "context": "$8B injection to service 2026 maturities; rating agencies maintained negative outlook citing structural cash flow gap.",
+      "tags": ["mexico", "pemex", "debt", "sheinbaum"]
+    }
+  ]
+}

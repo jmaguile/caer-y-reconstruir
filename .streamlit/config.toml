@@ -1,0 +1,24 @@
+# Pins Streamlit's announced URL to the Spark's Tailscale IP so
+# `streamlit run dashboard.py` prints a clickable URL the user can
+# reach from their laptop, instead of the internal 100.64.x.x interface
+# Streamlit would otherwise auto-detect.
+[server]
+port = 8501
+address = "0.0.0.0"
+headless = true
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+# Bloomberg-terminal palette: near-black background, amber primary, off-white
+# text. Streamlit's `font = "monospace"` flips the entire UI to the system
+# monospace stack, which is exactly the trading-terminal feel we want.
+[theme]
+base = "dark"
+primaryColor = "#FFA500"
+backgroundColor = "#0A0A0A"
+secondaryBackgroundColor = "#141414"
+textColor = "#E6E6E6"
+font = "monospace"

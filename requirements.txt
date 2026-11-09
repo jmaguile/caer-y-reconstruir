@@ -1,0 +1,14 @@
+openai>=1.0
+python-dotenv
+requests
+httpx
+yfinance
+pandas
+rich
+vaderSentiment
+sentence-transformers
+chromadb
+pypdf
+streamlit
+websocket-client
+numpy
